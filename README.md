@@ -2,7 +2,7 @@
 
 > A Vue.js heatmap based on acharts and bmap
 
-> 需要自行申请百度地图ak，并替换到/index.html的<script>标签中
+> 需要自行申请百度地图ak，并替换到/index.html的<script>标签中！
 
 ## Build Setup
 
